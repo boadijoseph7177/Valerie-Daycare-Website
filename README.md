@@ -26,7 +26,7 @@ To get started with this project on your local machine, follow these steps:
 
 Clone the repository: git clone https://github.com/boadijoseph7177/Valerie-School-Website/tree/main
 Open the project folder: cd Valerie-School-Website
-Open index.html in your web browser to view the website locally.
+Open tf_home.html in your web browser to view the website locally.
 Usage
 Feel free to use this project as a template for your own kindergarten school website. Customize it with your school's information, images, and branding. Make sure to replace the placeholder content with actual content relevant to your school.
 
